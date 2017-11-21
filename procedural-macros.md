@@ -64,3 +64,11 @@ fn gurps_friends() -> Vec<Friend> {
 ???
 
 When `friends` get out of scope, what happens?
+
+---
+
+```rust
+pub trait Drop {
+    fn drop(&mut self);
+}
+```
