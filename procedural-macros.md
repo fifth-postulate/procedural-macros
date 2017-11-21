@@ -72,3 +72,25 @@ pub trait Drop {
     fn drop(&mut self);
 }
 ```
+
+???
+
+Drop is called when a value get's out of scope
+
+--
+
+```rust
+impl Drop for Friend {
+    fn drop(&mut self) {
+        println!("Friend dropped");
+    }
+}
+```
+
+---
+
+# Tedium
+
+???
+
+Not difficult, but tedious 
