@@ -26,3 +26,34 @@ background-image: url('image/stranger_things.jpg')
 background-size: contain
 
 # Story 
+
+---
+
+# Code
+
+```rust
+fn main() {
+    let friends = gurps_friends();
+
+    for friend in friends {
+        println!("{}", friend);
+    }
+}
+```
+
+--
+
+```rust
+fn gurps_friends() -> Vec<Friend> {
+    let mut friends = Vec::new();
+
+    friends.push(marcel());
+    friends.push(meron());
+    friends.push(mink());
+    friends.push(paul());
+    friends.push(robin());
+    friends.push(sep());
+
+    friends
+}
+```
