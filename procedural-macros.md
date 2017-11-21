@@ -1,15 +1,21 @@
 class: center, middle
 
-# Title
+# Procedural Macros
+
+--
+
+## AKA Custom Derive 
+
+--
+
+At least for now
 
 ---
 
-# Agenda
+# Disclaimer
 
-1. Introduction
-2. Deep-dive
-3. ...
+.center[![The Rust Logo](image/rust-logo-512x512.png)]
 
----
-
-# Introduction
+???
+* I am not going to teach you Rust
+* I am not affiliated with Rust or Mozilla 
