@@ -27,6 +27,9 @@ background-size: contain
 
 # Story 
 
+???
+
+Role playing is what I regularly 
 ---
 
 # Code
@@ -57,3 +60,7 @@ fn gurps_friends() -> Vec<Friend> {
     friends
 }
 ```
+
+???
+
+When `friends` get out of scope, what happens?
