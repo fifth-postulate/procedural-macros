@@ -93,4 +93,8 @@ impl Drop for Friend {
 
 ???
 
-Not difficult, but tedious 
+Not difficult, but tedious
+
+---
+
+# Custom Derive
