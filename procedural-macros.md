@@ -102,3 +102,24 @@ Not difficult, but tedious
 ---
 
 # Custom Derive
+
+???
+
+Custom derive allows you to "derive" an implementation. But how?
+
+---
+
+# Demo
+
+???
+
+The code for this project can be found at [github](https://github.com/fifth-postulate/procedural-macros-code)
+
+---
+
+# Links
+
+* Presentation: [https://fifth-postulate.github.io/procedural-macros](https://fifth-postulate.github.io/procedural-macros)
+* Code: [https://github.com/fifth-postulate/procedural-macros-code](https://github.com/fifth-postulate/procedural-macros-code)
+* syn: [https://github.com/dtolnay/syn](https://github.com/dtolnay/syn)
+* quote: [https://github.com/dtolnay/quote](https://github.com/dtolnay/quote)
