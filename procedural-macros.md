@@ -87,6 +87,10 @@ impl Drop for Friend {
 }
 ```
 
+???
+
+An implementation of `Drop` for `Friend`
+
 ---
 
 # Tedium
