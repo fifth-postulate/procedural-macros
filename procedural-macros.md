@@ -29,7 +29,7 @@ background-size: contain
 
 ???
 
-Role playing is what I regularly 
+Role playing is what I regularly do
 ---
 
 # Code
