@@ -115,6 +115,25 @@ Custom derive allows you to "derive" an implementation. But how?
 
 The code for this project can be found at [github](https://github.com/fifth-postulate/procedural-macros-code)
 
+
+---
+
+# Summary
+
+* custom derive for crate `foo` in `foo-derive`
+* Must be top-level
+* `[lib] proc-macro = true`
+* `#[proc_macro_derive(Foo)]`
+* `syn` and `quote`
+
+???
+
+* Is a custom
+* For now, can change in the future
+* It is the law
+* Signals custom derive, function is the implementation
+* These are your friends
+
 ---
 
 # Links
