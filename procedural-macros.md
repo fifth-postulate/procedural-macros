@@ -92,6 +92,8 @@ impl Drop for Friend {
 An implementation of `Drop` for `Friend`
 
 ---
+class: center, middle
+
 
 # Tedium
 
@@ -100,6 +102,8 @@ An implementation of `Drop` for `Friend`
 Not difficult, but tedious
 
 ---
+class: center, middle
+
 
 # Custom Derive
 
@@ -108,6 +112,8 @@ Not difficult, but tedious
 Custom derive allows you to "derive" an implementation. But how?
 
 ---
+class: center, middle
+
 
 # Demo
 
